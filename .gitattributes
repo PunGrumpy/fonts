@@ -2,3 +2,4 @@ NewYork/ filter=lfs diff=lfs merge=lfs -text
 SF[[:space:]]Compact filter=lfs diff=lfs merge=lfs -text
 SF[[:space:]]Mono filter=lfs diff=lfs merge=lfs -text
 SF[[:space:]]Pro filter=lfs diff=lfs merge=lfs -text
+Hack/ filter=lfs diff=lfs merge=lfs -text
